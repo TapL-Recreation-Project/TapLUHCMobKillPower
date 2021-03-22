@@ -1,0 +1,6 @@
+name: UHCMobKillPower
+version: ${project.version}
+main: dev.barfuzzle99.uhcmorepowereachmobkill.uhcmorepowereachmobkill.UhcMorePowerEachMobKill
+api-version: 1.16
+softdepend: [ TapLUHCCore ]
+description: TapL's every mob you kill in UHC, you get more powerful
